@@ -9,20 +9,6 @@ I sourced the `shopping_trends.csv` dataset, cleaned the data in Power BI, and b
 
 ---
 
-## 📖 Table of Contents
-
-1. [About](#about)  
-2. [Data Source](#data-source)  
-3. [Data Dictionary](#data-dictionary)  
-4. [SQL Analysis](#sql-analysis)  
-5. [Prerequisites](#prerequisites)  
-6. [Usage](#usage)  
-7. [File Structure](#file-structure)  
-8. [Next Steps](#next-steps)  
-9. [Contact](#contact)  
-
----
-
 ## 🔍 About
 
 This project explores shopping trends by analyzing daily sales data across categories. The Power BI dashboard highlights:
